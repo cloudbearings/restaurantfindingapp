@@ -1,2 +1,2 @@
 # restaurantfindingapp
-Distributed Systems course project, Distributed Restaurant and Parking lot Finding android application.
+Distributed Systems course project, Distributed Restaurant and Parking lot Finding android application. Android application to find a restuarant and get a parking spot near it. It is an application used by multiple users who give their current location and the preference of cuisine. The application is a peer to peer master slave application, where the application decides the master from the available devices depending on the connectivity between the devices. Once the restaurant is decided the appilcation finds the closest parking lot near the restaurant and blocks a parking spot.
